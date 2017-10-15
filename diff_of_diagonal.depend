@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1503635205 source:d:\c_tut\basic_c\diff_of_diagonal\main.c
+	<math.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<assert.h>
+	<limits.h>
+	<stdbool.h>
+
